@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá. 👋
+Sou Rodrigo Silva, programador Full-Stack, especializado em Front-End.
 
-<!--
-**rodrigosilvarfs/rodrigosilvarfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo designs em interfaces performáticas e experiências intuitivas.
 
-Here are some ideas to get you started:
+Faço projetos com HTML e CSS, me aprofundando atualmente em JavaScript e React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buscando uma oportunidade para agregar valor e otimizar seus projetos, adquirindo experiências e aprendendo cada vez mais!
+
+Vamos tornar códigos em incríveis experiências juntos ?
+
+
+## Hello! 👋
+I'm Rodrigo Silva, a Full-Stack programmer specializing in Front-End.
+
+I transform designs into high-performance interfaces and intuitive experiences.
+
+I work with HTML and CSS, and I'm currently deepening my knowledge of JavaScript and React.
+
+Looking for an opportunity to add value and optimize your projects, gaining experience and learning more and more!
+
+Let's turn code into amazing experiences together?

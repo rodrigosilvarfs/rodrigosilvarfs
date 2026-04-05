@@ -10,7 +10,7 @@
 
 <br>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💼 Sobre Mim
 
 <img align="right" alt="Developer" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

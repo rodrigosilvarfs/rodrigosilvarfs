@@ -39,7 +39,9 @@ Te ajudo a transformar ideias em códigos, criando incríveis experiências!
 
 ### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
 </div>
 
 <!--
@@ -51,7 +53,10 @@ Te ajudo a transformar ideias em códigos, criando incríveis experiências!
 
 ### Design & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Design & Tools" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
 </div>
 
 ---
@@ -99,3 +104,5 @@ Te ajudo a transformar ideias em códigos, criando incríveis experiências!
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:0F0F1A&section=footer"/>
+
+

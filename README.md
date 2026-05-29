@@ -14,7 +14,7 @@
 
 <img align="right" alt="Developer" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Rodrigo Silva** — Full Stack Developer & UX/UI Designer  
+**Rodrigo Silva** — Front-End Developer | Data Analyst | Business Intelligence | Gestão, Tecnologia e Estratégia de Negócios  
 📍 Brasil 🇧🇷 · Remoto 🌐
 
 🎯 **Foco:** Criar experiências digitais eficientes, acessíveis e escaláveis  
